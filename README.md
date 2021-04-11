@@ -10,11 +10,11 @@
 <p>The data used for the analysis was collected by a college professor in 2020-2021 from the students using Microsoft Survey Forms.</p>
 <br>
 <h2>Techniques used</h2>
-- Data Cleaning
-- Exploratory Data Visualization (Matplotlib, Seaborn)
-- Central Tendency Analysis
-- Frequency Distributions
-- Correlations
-- T-Tests
-- Permutation (Randomization) Tests
-- Explanatory Data Visualization (Plotly, Seaborn)
+* Data Cleaning
+* Exploratory Data Visualization (Matplotlib, Seaborn)
+* Central Tendency Analysis
+* Frequency Distributions
+* Correlations
+* T-Tests
+* Permutation (Randomization) Tests
+* Explanatory Data Visualization (Plotly, Seaborn)
